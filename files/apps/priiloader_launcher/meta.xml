@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Priiloader Launcher</name>
+  <coder>phpgeek/DacoTaco</coder>
+  <version></version>
+  <release_date></release_date>
+  <short_description>Launches Priiloader if installed</short_description>
+  <long_description>Launches Priiloader if installed using the 'magicword'</long_description>
+ </app>
